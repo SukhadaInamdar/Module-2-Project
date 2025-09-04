@@ -1,6 +1,0 @@
-MemberID,Name,PasswordHash,Email,JoinDate
-1001,Ananya Singh,$2b$12$8XSRW1kLPLonD8ZEWectVeIrakue7UhN5Z4tpHxL6BAcBXxJxBQqK,ananya@mail.com,10/05/2025
-1002,Monica,$2b$12$8XSRW1kLPLonD8ZEWectVeIrakue7UhN5Z4tpHxL6BAcBXxJxBQqK,john.doe@example.com,01/06/2025
-1003,Rahul,$2b$12$8XSRW1kLPLonD8ZEWectVeIrakue7UhN5Z4tpHxL6BAcBXxJxBQqK,maria.garcia@example.com,15/06/2025
-1004,Prakash,$2b$12$8XSRW1kLPLonD8ZEWectVeIrakue7UhN5Z4tpHxL6BAcBXxJxBQqK,prakasah_1@gmail.com,28/08/2025
-1005,Suhas,$2b$12$B3dzPxpn39wL9GLT9V.u1ubVfHzlyFxmWBOff582gyd6EBBnSrH.q,suhas12@gmail.com,2025-08-30

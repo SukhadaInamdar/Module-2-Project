@@ -1,5 +1,6 @@
 # Module-2-Project
 Library Management System - Project Report By Sukhada Inamdar
+Note = Admin password is admin123
 1. Project Overview
 This project is a console-based Library Management System developed in Python. It simulates the operations of a library, such as managing books, registering members, issuing and returning books, and generating overdue reports. The system uses CSV files as a lightweight database and implements authentication with password hashing using bcrypt.
 2. Learning Goals
